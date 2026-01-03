@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Notto Banner](https://raw.githubusercontent.com/anghelmatei/notto/main/web/download/images/logo-white.png)
+![Notto Banner](images/banner.png)
 
 **Master your workflow with AI-powered notes, meetings, and chat.**
 
@@ -32,7 +32,7 @@
 
 Since Notto is a new application, you might see security warnings from your operating system. This is normal! Follow the steps below to install safely.
 
-### <img src="https://raw.githubusercontent.com/anghelmatei/notto/main/web/download/images/win-icon.png" width="20" height="20" /> Windows
+### 🪟 Windows
 
 1.  **Download** the `.exe` installer.
 2.  Double-click to run. You may see a **"Windows protected your PC"** popup.
@@ -40,7 +40,7 @@ Since Notto is a new application, you might see security warnings from your oper
 4.  Click **"Run anyway"**.
 5.  Wait for the installation to complete. Notto will launch automatically!
 
-### <img src="https://raw.githubusercontent.com/anghelmatei/notto/main/web/download/images/mac-icon.png" width="20" height="20" /> macOS
+### 🍎 macOS
 
 1.  **Download** the `.dmg` file.
 2.  Open the file and drag **Notto** to your **Applications** folder.
@@ -49,7 +49,7 @@ Since Notto is a new application, you might see security warnings from your oper
 5.  Click **"Open"** again in the dialog box.
     *   *Note: If you just double-click, macOS might block it. Right-clicking is the secret key!* 🔑
 
-### <img src="https://raw.githubusercontent.com/anghelmatei/notto/main/web/download/images/linux-icon.png" width="20" height="20" /> Linux
+### 🐧 Linux
 
 1.  **Download** the `.AppImage` file.
 2.  Right-click the file and go to **Properties**.
